@@ -54,9 +54,9 @@
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username= LuckyTheDev &show_icons=true&theme=github_dark" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuckyTheDev&show_icons=true&theme=github_dark" alt="GitHub Stats" height="160"/>
   &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username= LuckyTheDev &layout=compact&theme=github_dark" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyTheDev&layout=compact&theme=github_dark" alt="Top Languages" height="160"/>
 </div>
 
 
